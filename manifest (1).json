@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Gabigol",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Gabigol",
+  "start_url": "/https://andresrinconherrera.github.io/JuegoGabigol/",
+  "theme_color": "#ffffff"
+}
